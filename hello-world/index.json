@@ -6,9 +6,11 @@
   "details": {
     "steps": [
       {
-      "title": "Paso 1 - Instalar el entorno",
-      "text": "step1.md"
-      },
+                "title": "Step 1",
+                "courseData": "step1-background.sh",
+                "code": "step1-foreground.sh",
+                "text": "step1.md"
+       },
       {
       "title": "Paso 2 - Mi primer programa",
       "text": "step2.md"
