@@ -4,10 +4,16 @@
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
+    "steps": [
+      {
       "title": "Paso 1 - Instalar el entorno",
       "text": "step1.md"
-    }],
+      },
+      {
+      "title": "Paso 2 - Mi primer programa",
+      "text": "step2.md"
+      }
+     ],
     "intro": {
       "text": "intro.md",
       "credits": ""
