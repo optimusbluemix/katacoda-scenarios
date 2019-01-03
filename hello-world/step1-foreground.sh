@@ -1,4 +1,4 @@
 echo "Configurando el entorno de manera automatica ..."
 apt-get update
-apt install ruby
+apt --assume-yes install ruby
 ruby --version
