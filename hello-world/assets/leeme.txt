@@ -1,0 +1,2 @@
+############################################
+Files in a assets directory within the scenario can have files uploaded to the client or host of the environment.
