@@ -1,1 +1,1 @@
-You've completed your first Katacoda scenario!
+has completado nuestra demo. Felicitaciones !
