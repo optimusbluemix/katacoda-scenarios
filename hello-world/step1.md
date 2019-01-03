@@ -12,4 +12,5 @@ Instalar el entorno Ruby
 Presionar <ENTER>
 
 Verificar la version de Ruby
+
 `ruby --version`{{execute}}
