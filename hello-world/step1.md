@@ -4,9 +4,9 @@ This is your first step.
 
 Actualizar el catalogo del sistema Ubuntu **command**
 
-`'apt-get update'`{{execute}}
+`apt-get update`{{execute}}
 
 Instalar el entorno Ruby
 
-`'apt install ruby'`{{execute}}
+`apt install ruby`{{execute}}
 
